@@ -218,14 +218,16 @@ border: solid;
 }
  
 @media(max-width:1024px){
+	.ctext{
+		margin-bottom: 200px;
+	}
 	.dcontainer{
-
-	
 		margin: 0 auto;
 		display: block;
 		
 	}
 	.b1{
+		margin-top: -180px;
 		width: 100%;
 		height: 40%;
 
@@ -276,7 +278,8 @@ min-width: 100%;
 }
 
 .b1{
-
+margin-top: 10px;	
+max-width: 200px ;
 min-width: 100%;
 }
 .b2{
@@ -290,6 +293,12 @@ min-width: 100%;
 
 
 @media(max-width: 414px){
+.ctext{
+display: block;
+font-size: 18px ;
+}
+
+
 	.h_conteiner{
 
 		font-size: 10px;
@@ -307,6 +316,6 @@ display: none;
 }
 
 .b1{
-	margin-top: 250px;
+	margin-top: -20px;
 }
 
