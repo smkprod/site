@@ -1,0 +1,8 @@
+User-agent:Yandex
+Disallow: 
+
+User-agent:*
+Disallow: 
+
+Sitemap: http://betoniryem.pl.ua/sitemap.xml
+Host: betoniryem.pl.ua
